@@ -5,7 +5,7 @@
 # <bitbar.author>Deepak Gulati</bitbar.author>
 # <bitbar.author.github>deepakg</bitbar.author.github>
 # <bitbar.desc>Let's you start a 25 minute timer and notifies you when the time is up</bitbar.desc>
-# <bitbar.image>http://www.hosted-somewhere/pluginimage</bitbar.image>
+# <bitbar.image>https://github.com/deepakg/bitbar-pomodoro/raw/master/img/pomodoro-bitbar.png</bitbar.image>
 # <bitbar.dependencies>perl</bitbar.dependencies>
 # <bitbar.abouturl>http://url-to-about.com/</bitbar.abouturl>
 
